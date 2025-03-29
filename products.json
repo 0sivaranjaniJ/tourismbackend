@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1742795989650,
+    "name": "demo",
+    "price": "100011",
+    "description": "asdfghh",
+    "image": "/uploads/image-1742795989644.jpeg"
+  },
+  {
+    "id": 1742803179886,
+    "name": "dummy",
+    "price": "5000",
+    "description": "testttt",
+    "image": "/uploads/image-1742803179873.jpeg"
+  },
+  {
+    "id": 1742886471116,
+    "name": "sivaranjani",
+    "price": "14000",
+    "description": "fggf",
+    "image": "/uploads/image-1742886471113.png"
+  },
+  {
+    "id": 1742908761071,
+    "name": "sivaranjani",
+    "price": "14000",
+    "description": "ssss",
+    "image": "/uploads/image-1742908761062.jpg"
+  }
+]

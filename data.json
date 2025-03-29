@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Paris Romantic Getaway",
+    "destination": "Paris",
+    "days": 5,
+    "price": 75000,
+    "description": "A beautiful trip to the city of love.",
+    "image": "https://via.placeholder.com/200"
+  }
+]
