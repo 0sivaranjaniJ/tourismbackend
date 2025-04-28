@@ -1,29 +1,38 @@
 [
   {
-    "id": 1742795989650,
-    "name": "demo",
-    "days": 2,
-    "description": "asdfghh",
-    "category": "domestic",
-    "destination": "dfd",
-    "image": "/uploads/image-1742795989644.jpeg"
-  },
-  {
-    "id": 1742803179886,
-    "name": "dummy",
-    "days": 2,
-    "description": "testttt",
-    "category": "domestic",
-    "destination": "sds",
-    "image": "/uploads/image-1742803179873.jpeg"
-  },
-  {
-    "id": 1745673124355,
-    "name": "goa",
-    "days": 2,
-    "description": "asd",
+    "id": 1745825987759,
+    "name": "Honeymoon ",
+    "days": 6,
+    "description": "Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches and coral reefs.",
     "category": "international",
-    "destination": "dfd",
-    "image": "/uploads/image-1745673124346.jpeg"
+    "destination": "bali",
+    "image": "/uploads/image-1745825987744.jpg"
+  },
+  {
+    "id": 1745826345453,
+    "name": "Family Getaways",
+    "days": 3,
+    "description": "Goa is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese",
+    "category": "domestic",
+    "destination": "goa",
+    "image": "/uploads/image-1745826345443.jpg"
+  },
+  {
+    "id": 1745826833642,
+    "name": "Adventure ",
+    "days": 2,
+    "description": "Ooty (short for Udhagamandalam) is a resort town in the Western Ghats mountains, in southern India's Tamil Nadu state",
+    "category": "domestic",
+    "destination": "ooty ",
+    "image": "/uploads/image-1745826833626.jpg"
+  },
+  {
+    "id": 1745841996080,
+    "name": "school ",
+    "days": 2,
+    "description": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city",
+    "category": "domestic",
+    "destination": "mumbai",
+    "image": "/uploads/image-1745841996060.jpg"
   }
 ]
