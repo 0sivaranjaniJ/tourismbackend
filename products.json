@@ -1,30 +1,13 @@
 [
   {
-    "id": 1745825987759,
-    "name": "Honeymoon ",
-    "days": 6,
-    "description": "Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches and coral reefs.",
-    "category": "international",
-    "destination": "bali",
-    "image": "/uploads/image-1745825987744.jpg"
-  },
-  {
     "id": 1745826345453,
     "name": "Family Getaways",
     "days": 3,
     "description": "Goa is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese",
     "category": "domestic",
     "destination": "goa",
-    "image": "/uploads/image-1745826345443.jpg"
-  },
-  {
-    "id": 1745826833642,
-    "name": "Adventure ",
-    "days": 2,
-    "description": "Ooty (short for Udhagamandalam) is a resort town in the Western Ghats mountains, in southern India's Tamil Nadu state",
-    "category": "domestic",
-    "destination": "ooty ",
-    "image": "/uploads/image-1745826833626.jpg"
+    "image": "/uploads/image-1745826345443.jpg",
+    "status": "active"
   },
   {
     "id": 1745841996080,
@@ -33,6 +16,47 @@
     "description": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city",
     "category": "domestic",
     "destination": "mumbai",
-    "image": "/uploads/image-1745841996060.jpg"
+    "image": "/uploads/image-1745841996060.jpg",
+    "status": "active"
+  },
+  {
+    "id": 1745922959676,
+    "name": "moooo",
+    "days": "33",
+    "description": "sdsd",
+    "category": "international",
+    "destination": "sad",
+    "status": "inactive",
+    "image": "/uploads/1745922959667-PXL_20221231_030914950-scaled.jpg"
+  },
+  {
+    "id": 1745923011732,
+    "name": "kerala ",
+    "days": "3",
+    "description": "sdasda",
+    "category": "domestic",
+    "destination": "sadasd",
+    "status": "inactive",
+    "image": "/uploads/1745923011730-goa.jpg"
+  },
+  {
+    "id": 1745923027304,
+    "name": "moooo",
+    "days": "33",
+    "description": "asdas",
+    "category": "domestic",
+    "destination": "sad",
+    "status": "active",
+    "image": "/uploads/1745923027301-7xm602974-1.jpg"
+  },
+  {
+    "id": 1745923061814,
+    "name": "kochi",
+    "days": "4",
+    "description": "tgt",
+    "category": "domestic",
+    "destination": "gvb",
+    "status": "inactive",
+    "image": "/uploads/1745923061811-goa.jpg"
   }
 ]
